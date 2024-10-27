@@ -21,14 +21,7 @@
 title: STOCKCRAFT
 email: richdaddystock@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  stockcraft는 주식 시장의 최신 동향과 깊이 있는 분석을 제공하는 블로그입니다. 투자자 여러분께서는 다음과 같은 주요 내용을 통해 효과적인 투자 결정을 내릴 수 있습니다:
-
-  - 종목 시황: 시장의 전반적인 흐름과 주요 종목들의 동향을 분석하여 투자자들에게 필요한 정보를 제공합니다.
-  - 종목 분석: 개별 종목의 재무상태, 기술적 분석 및 최근 뉴스 등을 종합적으로 평가하여 투자 가치를 제시합니다.
-  - 시장 주도주 분석: 시장을 이끌고 있는 주요 주식들의 특성과 성장을 분석하여 투자 전략을 세우는 데 도움을 줍니다.
-  - 테마/업종 분석: 특정 테마나 업종의 트렌드와 미래 전망을 분석하여, 투자 포트폴리오 다각화에 기여합니다.
-  - 시장 상대 강도 분석: 주식의 상대적 강도를 평가하여, 우량 종목과 비우량 종목의 차별성을 이해하고 투자 결정을 지원합니다.
-  stockcraft 블로그를 통해 보다 신뢰할 수 있는 정보를 얻고, 현명한 투자 결정을 내리시기 바랍니다.
+  stockcraft는 주식 시장의 최신 동향과 깊이 있는 분석을 제공하는 블로그입니다. stockcraft 블로그를 통해 보다 신뢰할 수 있는 정보를 얻고, 현명한 투자 결정을 내리시기 바랍니다.
   본 블로그의 내용은 투자 권유를 목적으로 하지 않으며, 제공되는 정보에 대한 투자 책임은 전적으로 독자에게 있습니다. 투자 결정을 내리기 전에는 반드시 충분한 조사와 고려가 필요합니다.
 baseurl: '/stockcraft' # the subpath of your site, e.g. /blog
 url: 'https://richdaddystock.github.io' # the base hostname & protocol for your site, e.g. http://example.com
