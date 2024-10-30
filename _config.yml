@@ -30,7 +30,7 @@ github_username: jekyll
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: 'mmistakes/minimal-mistakes-jekyll'
+remote_theme: hahafamilia/minimal-mistakes
 
 minimal_mistakes_skin: 'contrast'
 plugins:
