@@ -29,7 +29,8 @@ twitter_username: jekyllrb
 github_username: jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: 'mmistakes/minimal-mistakes-jekyll'
 minimal_mistakes_skin: 'contrast'
 plugins:
   - jekyll-feed
